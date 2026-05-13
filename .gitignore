@@ -1,0 +1,16 @@
+﻿# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# Data files (too large for git)
+data/
+*.nii
+*.nii.gz
+
+# Outputs
+outputs/
