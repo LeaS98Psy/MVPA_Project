@@ -14,3 +14,5 @@ Haxby, J. V., Gobbini, M. I., Furey, M. L., Ishai, A., Schouten, J. L., & Pietri
 
 The data is distributed via [OpenNeuro](https://openneuro.org/datasets/ds000105) and loaded automatically using `nilearn.datasets.fetch_haxby()`.
 
+## Author
+Lea Stupan — M.Sc. Cognitive Neuroscience, University of Münster
