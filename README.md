@@ -6,6 +6,8 @@ This project is a **practice implementation** of multivariate pattern analysis (
 
 The code is intended for educational purposes. It does **not** produce novel scientific results.
 
+### **Tech:** Python, Nilearn, scikit-learn, NumPy, pandas, Matplotlib, tqdm
+
 ## Dataset Source
 
 The analysis uses the **Haxby et al. (2001)** fMRI dataset, available through Nilearn and originally published at:
